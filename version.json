@@ -1,0 +1,17 @@
+{
+  "spec_version": "1.0.0",
+  "modules": {
+    "iso7637_2": {
+      "version": "2024.1",
+      "files": [
+        "iso7637/pulse1.png"
+      ]
+    },
+    "cispr25": {
+      "version": "5.0",
+      "files": [
+        "cispr25/class3.png"
+      ]
+    }
+  }
+}
