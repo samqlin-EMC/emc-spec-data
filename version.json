@@ -1,16 +1,22 @@
 {
-  "spec_version": "1.0.0",
+  "spec_version": "1.1.0",
   "modules": {
     "iso7637_2": {
-      "version": "2024.1",
+      "version": "2024.2",
       "files": [
-        "iso7637/pulse1.png"
+        {
+          "path": "iso7637/pulse1.png",
+          "sha256": "REPLACE_WITH_REAL_HASH"
+        }
       ]
     },
     "cispr25": {
-      "version": "5.0",
+      "version": "5.1",
       "files": [
-        "cispr25/class3.png"
+        {
+          "path": "cispr25/class3.png",
+          "sha256": "REPLACE_WITH_REAL_HASH"
+        }
       ]
     }
   }
